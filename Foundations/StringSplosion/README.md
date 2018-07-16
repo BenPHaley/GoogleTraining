@@ -6,4 +6,4 @@ Given a non-empty string like "Code" return a string like "CCoCodCode".
 	stringSplosion("abc") → "aababc"
 	stringSplosion("ab") → "aab"
 
-[Source Site]{http://codingbat.com/prob/p117334}
+[Source Site](http://codingbat.com/prob/p117334)
